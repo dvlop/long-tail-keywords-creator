@@ -1,0 +1,4 @@
+body{text-align:center;}
+div.box{float:left; margin:50px;}
+div#results span{font-size:15px;}
+input#create{width:150px; height:30px; margin:auto; text-align:center;}
